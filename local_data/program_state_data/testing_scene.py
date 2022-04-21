@@ -6,7 +6,7 @@ remaining = None
 correct_hun_word = None
 correct_eng_word = None
 
-incorrect : dict
+
 
 
 
